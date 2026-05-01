@@ -181,4 +181,4 @@ The code base is a working prototype. A few things you should know before depend
 
 ## License
 
-No license specified yet. Treat as **all rights reserved** until the owner adds one. Open an issue if you want to contribute.
+[MIT](LICENSE) © 2026 0xTheDave
